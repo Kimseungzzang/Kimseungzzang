@@ -31,14 +31,3 @@ Backend & Mobile Developer @ 한성대학교
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kimseungzzang&show_icons=true&theme=default&hide_border=true&count_private=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimseungzzang&layout=compact&theme=default&hide_border=true&langs_count=6" />
-
-<br/>
-
-### 🚀 Featured Projects
-
-| 프로젝트 | 설명 | 스택 |
-|---|---|---|
-| [RunPet](https://github.com/Kimseungzzang/RunPet_api) | 반려동물 러닝 앱 | Flutter · Spring Boot · TypeScript |
-| [my_sns](https://github.com/Kimseungzzang/my_sns_api) | 패션 SNS | Flutter · Kotlin · Spring Boot |
-| [ticketing](https://github.com/Kimseungzzang/ticketing) | MSA 티케팅 서버 | Kotlin · TypeScript |
-| [big-traffic](https://github.com/Kimseungzzang/big-traffic) | 대규모 트래픽 쇼핑몰 MSA | Java · Spring Boot |
