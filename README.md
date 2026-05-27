@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm kimseungzzang
 
-Backend & Mobile Developer @ 한성대학교
+Backend Developer
 
 <br/>
 
@@ -22,7 +22,9 @@ Backend & Mobile Developer @ 한성대학교
 **Infra & DB**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
 <br/>
